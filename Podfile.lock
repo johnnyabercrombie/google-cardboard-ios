@@ -1,0 +1,86 @@
+PODS:
+  - AWSCloudWatch (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSCognito (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSCognitoIdentityProvider (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSCore (2.5.3)
+  - AWSDynamoDB (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSEC2 (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSElasticLoadBalancing (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSIoT (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSKinesis (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSLambda (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSMachineLearning (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSMobileAnalytics (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSS3 (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSSES (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSSimpleDB (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSSNS (2.5.3):
+    - AWSCore (= 2.5.3)
+  - AWSSQS (2.5.3):
+    - AWSCore (= 2.5.3)
+  - GoogleToolboxForMac/Defines (2.1.0)
+  - GoogleToolboxForMac/Logger (2.1.0):
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+  - GTMSessionFetcher/Core (1.1.6)
+  - GVRSDK (1.40.0):
+    - GoogleToolboxForMac/Logger (= 2.1.0)
+    - GTMSessionFetcher/Core (= 1.1.6)
+
+DEPENDENCIES:
+  - AWSCloudWatch
+  - AWSCognito
+  - AWSCognitoIdentityProvider
+  - AWSDynamoDB
+  - AWSEC2
+  - AWSElasticLoadBalancing
+  - AWSIoT
+  - AWSKinesis
+  - AWSLambda
+  - AWSMachineLearning
+  - AWSMobileAnalytics
+  - AWSS3
+  - AWSSES
+  - AWSSimpleDB
+  - AWSSNS
+  - AWSSQS
+  - GVRSDK
+
+SPEC CHECKSUMS:
+  AWSCloudWatch: 1109f24b73e1577cafc8e49e63aa710b9481c98c
+  AWSCognito: 74be06e52a2a063ab932a9d457a89e003d68631d
+  AWSCognitoIdentityProvider: 1594ab95efebd3f3670bd6d2e21f0860463d672a
+  AWSCore: 344e21892790650cf902246d436402257a545bde
+  AWSDynamoDB: 29479016facbb90079030ea70280fa344e51e9b1
+  AWSEC2: 9fbf71372fdf4d3f8327ef2d28bc71c86ab6b696
+  AWSElasticLoadBalancing: f9e8a2b009971323795adbd09e6edbe04a97cf7a
+  AWSIoT: 5d8d3eb938079a77f596d34c6476b0eb0ce3acfc
+  AWSKinesis: 4959d16b8502f6d1b8764d5a610ee8ee515fd663
+  AWSLambda: bdf90b087e8c5f4f7af764ef067b92c15db7542d
+  AWSMachineLearning: 4f04f398174b322cdd0e52d67677b1e540908588
+  AWSMobileAnalytics: a53aa6914b5ad4465ee938a7cac0b43a2ef32346
+  AWSS3: 88095d68f9d588eaa042d7f502f350234f98f606
+  AWSSES: 0811b96b735c626b56f8256c7494596f2892381d
+  AWSSimpleDB: 8b81aac316e6b6677f9e7c2d3d8d6d1c96888f37
+  AWSSNS: 7ce904133daad7ea47378c2b8018db9dc2cef275
+  AWSSQS: 2a15d3b82a1468d54725867307a9910459264892
+  GoogleToolboxForMac: 2b2596cbb7186865e98cadf2b1e262d851c2b168
+  GTMSessionFetcher: 6aacd0ab48ddf0c3633ab2642d792abfcad1b08a
+  GVRSDK: bb909f6edca540b499b512b612375002613dbde6
+
+PODFILE CHECKSUM: 781bc13509d6a2e367b46ca753321b7765868ccb
+
+COCOAPODS: 1.2.0
